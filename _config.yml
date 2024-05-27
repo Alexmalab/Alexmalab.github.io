@@ -29,7 +29,7 @@ github:
   username: Alexmalab # change to your github username
 
 twitter:
-  username: Alexmalab # change to your twitter username
+  username: A7exandreM # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +38,11 @@ social:
   email: a1exma@hotmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/A7exandreM # change to your twitter homepage
     - https://github.com/Alexmalab # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/Alexander-Marr
+    - https://www.linkedin.com/in/alexandre-ma-aa8122
 
 # Site Verification Settings
 webmaster_verifications:
